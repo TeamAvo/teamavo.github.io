@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  color: #f0f0f0;
+  background-color: #121212;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #0cb8e0;
+}
+
+.text {
+  margin: 5%;
+  padding: 5%;
+  width: 80%;
+  height: 80%;
+  background-color: #303030;
+  border-radius: 40px;
+  box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.8);
+}
