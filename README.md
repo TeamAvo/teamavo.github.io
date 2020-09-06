@@ -19,7 +19,7 @@ Support: [https://teamavo.github.io/Support.html](https://teamavo.github.io/Supp
 
 **Website (Online)**: [https://teamavo.github.io/Cafeteria/](https://teamavo.github.io/Cafeteria/)  
 **Google Play**: [https://play.google.com/store/apps/details?id=com.teamavo.avonfood  ](https://play.google.com/store/apps/details?id=com.teamavo.avonfood)
-**App Store**: Pending approval  
+**App Store**: [https://apps.apple.com/us/app/avon-food/id1529855166](https://apps.apple.com/us/app/avon-food/id1529855166)  
 **Windows 7 / 8 / 10**: Coming soon!  
 **macOS**: Coming soon!  
 
